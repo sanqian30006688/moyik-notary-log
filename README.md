@@ -33,8 +33,8 @@ Moyik records key moments in a space (a decision, for example) as notary entries
 ## 自己保存一份镜像 · Keep your own mirror
 
 ```
-git clone <this repository>
-cd <folder>
+git clone https://github.com/sanqian30006688/moyik-notary-log
+cd moyik-notary-log
 python3 mirror.py              # 从 moyik.com 拷贝最新的并检查 · copy the newest from moyik.com and check
 python3 mirror.py --check-only # 不联网，只检查已有的文件 · offline: check the files already here
 ```
