@@ -1,0 +1,20 @@
+[
+  {
+    "endpoint": "https://alice.btc.calendar.opentimestamps.org",
+    "provider": "opentimestamps",
+    "reference": "bitcoin:976588",
+    "status": "confirmed"
+  },
+  {
+    "endpoint": "https://bob.btc.calendar.opentimestamps.org",
+    "provider": "opentimestamps",
+    "reference": "bitcoin:976588",
+    "status": "confirmed"
+  },
+  {
+    "endpoint": "https://finney.calendar.eternitywall.com",
+    "provider": "opentimestamps",
+    "reference": "bitcoin:976597",
+    "status": "confirmed"
+  }
+]

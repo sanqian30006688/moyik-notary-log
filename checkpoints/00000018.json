@@ -1,0 +1,12 @@
+{
+  "at_micros": "1795242603610173",
+  "beacon": "bitcoin:976860:0000000000000000000194c1f8bcdf76da1edc47f28873b2cbd991e4b6a1f7d7",
+  "checkpoint_hash": "b7a54f283286259072f4cd6866eb54fd4dc2d6616e86e94015b138a634b70eeb",
+  "entry_count": 1,
+  "key_id": "k-20261118-7980d8",
+  "number": "18",
+  "prev_hash": "ae22b6f49742d7436309fbc238c17c96bd330f6fe2b73ec6fc69826d482972b2",
+  "root": "5bd7ecd03a29bdd5b28ff41c5cb1f737e64220fc052749fb0cf1ed035d775271",
+  "signature": "7181bff78c770fc84b7ca60b95632d2628a551bd32c51d1fe5f682b01644545e7a2a310a64d2325217eebca3d19ed1eefb51a45e4db6f7ecea99cb5c0f573e0b",
+  "total_count": "87"
+}
