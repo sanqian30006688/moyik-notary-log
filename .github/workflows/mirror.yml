@@ -6,7 +6,7 @@ name: mirror
 
 on:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '23 */6 * * *'
   workflow_dispatch:
 
 # contents: commit the new files. issues: open one issue when a run fails. Nothing else.
