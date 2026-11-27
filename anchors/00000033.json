@@ -14,7 +14,7 @@
   {
     "endpoint": "https://finney.calendar.eternitywall.com",
     "provider": "opentimestamps",
-    "reference": null,
-    "status": "pending"
+    "reference": "bitcoin:977832",
+    "status": "confirmed"
   }
 ]
