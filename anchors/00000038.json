@@ -2,14 +2,14 @@
   {
     "endpoint": "https://alice.btc.calendar.opentimestamps.org",
     "provider": "opentimestamps",
-    "reference": null,
-    "status": "pending"
+    "reference": "bitcoin:977889",
+    "status": "confirmed"
   },
   {
     "endpoint": "https://bob.btc.calendar.opentimestamps.org",
     "provider": "opentimestamps",
-    "reference": null,
-    "status": "pending"
+    "reference": "bitcoin:977889",
+    "status": "confirmed"
   },
   {
     "endpoint": "https://finney.calendar.eternitywall.com",
